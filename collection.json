@@ -1,0 +1,124 @@
+{
+    "User": {
+      "userID": "string",
+      "reportID": "string",
+      "ratingID": "string",
+      "rangerID": "string",
+      "name": "string",
+      "admin": "boolean",
+      "phone": "string",
+      "email": "string"
+    },
+    "Report": {
+      "reportID": "string",
+      "userID": "string",
+      "trailID": "string",
+      "galleryID": "string",
+      "date": "string",
+      "reportDescription": "string",
+      "alert": "boolean",
+      "condition": "string"
+    },
+    "Gallery": {
+      "galleryID": "string",
+      "photoID": "string",
+      "galleryName": "string"
+    },
+    "Photo": {
+      "photoID": "string",
+      "photoName": "string",
+      "description": "string",
+      "fileType": "string",
+      "dateUploaded": "string"
+    },
+    "Trail": {
+      "trailID": "string",
+      "reportID": "string",
+      "ratingID": "string",
+      "mapID": "string",
+      "parkID": "string",
+      "trailName": "string",
+      "latitude": "number",
+      "longitude": "number",
+      "distance": "number",
+      "difficulty": "string",
+      "elevationChange": "number",
+      "trailType": "string"
+    },
+    "Rating": {
+      "ratingID": "string",
+      "userID": "string",
+      "trailID": "string",
+      "ratingNum": "number",
+      "date": "string",
+      "review": "string"
+    },
+    "Map": {
+      "mapID": "string",
+      "mapURL": "string"
+    },
+    "Safety": {
+      "safetyID": "string",
+      "permitID": "string",
+      "trailID": "string",
+      "monumentID": "string",
+      "fireWarning": "boolean",
+      "emergency": "boolean",
+      "wildLife": "boolean",
+      "closed": "boolean"
+    },
+    "Permit": {
+      "permitID": "string",
+      "safetyID": "string",
+      "startDate": "string",
+      "endDate": "string",
+      "permitType": "string"
+    },
+    "Monument": {
+      "monumentID": "string",
+      "safetyID": "string",
+      "markerID": "string",
+      "monumentName": "string"
+    },
+    "Markers": {
+      "markerID": "string",
+      "descriptionID": "string",
+      "markerName": "string",
+      "markerLatitude": "number",
+      "markerLongitude": "number"
+    },
+    "Description": {
+      "descriptionID": "string",
+      "trailID": "string",
+      "parkID": "string",
+      "description": "string",
+      "biome": "string",
+      "parking": "string",
+      "restroom": "boolean",
+      "picnic": "boolean"
+    },
+    "Park": {
+      "parkID": "string",
+      "parkName": "string",
+      "parkEstablishmentDate": "string",
+      "stateUS": "string",
+      "averageTrafficPerYear": "number"
+    },
+    "Campsites": {
+      "campsiteID": "string",
+      "name": "string",
+      "restroom": "boolean",
+      "numSpots": "number",
+      "numSpotsOpen": "number"
+    },
+    "Rangers": {
+      "rangerID": "string",
+      "userID": "string",
+      "dateEmployed": "string"
+    },
+    "WorksAt": {
+      "rangerID": "string",
+      "parkID": "string"
+    }
+  }
+  
