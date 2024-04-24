@@ -1,0 +1,903 @@
+
+[{
+    "userID": 1,
+    "reportID": 1,
+    "ratingID": 1,
+    "rangerID": 1,
+    "name": "unavailable",
+    "admin": false,
+    "phone": "Malay squirrel (unidentified)",
+    "email": "fmarder0@utexas.edu"
+  }, {
+    "userID": 2,
+    "reportID": 2,
+    "ratingID": 2,
+    "rangerID": 2,
+    "name": "Pelecans onocratalus",
+    "admin": false,
+    "phone": "Pelican, eastern white",
+    "email": "nfidelli1@weebly.com"
+  }, {
+    "userID": 3,
+    "reportID": 3,
+    "ratingID": 3,
+    "rangerID": 3,
+    "name": "Coluber constrictor",
+    "admin": false,
+    "phone": "Snake, buttermilk",
+    "email": "sbyrth2@theglobeandmail.com"
+  }, {
+    "userID": 4,
+    "reportID": 4,
+    "ratingID": 4,
+    "rangerID": 4,
+    "name": "Canis mesomelas",
+    "admin": true,
+    "phone": "Silver-backed jackal",
+    "email": "gcollishaw3@alexa.com"
+  }, {
+    "userID": 5,
+    "reportID": 5,
+    "ratingID": 5,
+    "rangerID": 5,
+    "name": "Acrobates pygmaeus",
+    "admin": false,
+    "phone": "Pygmy possum",
+    "email": "ekaliszewski4@digg.com"
+  }, {
+    "userID": 6,
+    "reportID": 6,
+    "ratingID": 6,
+    "rangerID": 6,
+    "name": "Corythornis cristata",
+    "admin": false,
+    "phone": "Malachite kingfisher",
+    "email": "sdeex5@free.fr"
+  }, {
+    "userID": 7,
+    "reportID": 7,
+    "ratingID": 7,
+    "rangerID": 7,
+    "name": "Philetairus socius",
+    "admin": true,
+    "phone": "Sociable weaver",
+    "email": "mblankenship6@bing.com"
+  }, {
+    "userID": 8,
+    "reportID": 8,
+    "ratingID": 8,
+    "rangerID": 8,
+    "name": "Xerus sp.",
+    "admin": false,
+    "phone": "African ground squirrel (unidentified)",
+    "email": "druxton7@devhub.com"
+  }, {
+    "userID": 9,
+    "reportID": 9,
+    "ratingID": 9,
+    "rangerID": 9,
+    "name": "Vanellus armatus",
+    "admin": false,
+    "phone": "Plover, blacksmith",
+    "email": "bdefries8@infoseek.co.jp"
+  }, {
+    "userID": 10,
+    "reportID": 10,
+    "ratingID": 10,
+    "rangerID": 10,
+    "name": "Eolophus roseicapillus",
+    "admin": false,
+    "phone": "Roseate cockatoo",
+    "email": "edewitt9@artisteer.com"
+  }, {
+    "userID": 11,
+    "reportID": 11,
+    "ratingID": 11,
+    "rangerID": 11,
+    "name": "Cercatetus concinnus",
+    "admin": true,
+    "phone": "Western pygmy possum",
+    "email": "hbentea@nymag.com"
+  }, {
+    "userID": 12,
+    "reportID": 12,
+    "ratingID": 12,
+    "rangerID": 12,
+    "name": "Uraeginthus granatina",
+    "admin": true,
+    "phone": "Waxbill, violet-eared",
+    "email": "rkemmisb@technorati.com"
+  }, {
+    "userID": 13,
+    "reportID": 13,
+    "ratingID": 13,
+    "rangerID": 13,
+    "name": "Herpestes javanicus",
+    "admin": false,
+    "phone": "Javan gold-spotted mongoose",
+    "email": "creveleyc@bandcamp.com"
+  }, {
+    "userID": 14,
+    "reportID": 14,
+    "ratingID": 14,
+    "rangerID": 14,
+    "name": "Corvus brachyrhynchos",
+    "admin": false,
+    "phone": "Crow, american",
+    "email": "byoxend@mayoclinic.com"
+  }, {
+    "userID": 15,
+    "reportID": 15,
+    "ratingID": 15,
+    "rangerID": 15,
+    "name": "Nycticorax nycticorax",
+    "admin": false,
+    "phone": "Black-crowned night heron",
+    "email": "rturrelle@chicagotribune.com"
+  }, {
+    "userID": 16,
+    "reportID": 16,
+    "ratingID": 16,
+    "rangerID": 16,
+    "name": "Haliaeetus leucocephalus",
+    "admin": false,
+    "phone": "Eagle, bald",
+    "email": "aclacef@ftc.gov"
+  }, {
+    "userID": 17,
+    "reportID": 17,
+    "ratingID": 17,
+    "rangerID": 17,
+    "name": "Centrocercus urophasianus",
+    "admin": false,
+    "phone": "Grouse, greater sage",
+    "email": "shortopg@netscape.com"
+  }, {
+    "userID": 18,
+    "reportID": 18,
+    "ratingID": 18,
+    "rangerID": 18,
+    "name": "Actophilornis africanus",
+    "admin": false,
+    "phone": "Trotter, lily",
+    "email": "dbaxillh@elegantthemes.com"
+  }, {
+    "userID": 19,
+    "reportID": 19,
+    "ratingID": 19,
+    "rangerID": 19,
+    "name": "Martes americana",
+    "admin": false,
+    "phone": "Marten, american",
+    "email": "ucornehli@comcast.net"
+  }, {
+    "userID": 20,
+    "reportID": 20,
+    "ratingID": 20,
+    "rangerID": 20,
+    "name": "Anas bahamensis",
+    "admin": true,
+    "phone": "Bahama pintail",
+    "email": "lmingardij@1und1.de"
+  }, {
+    "userID": 21,
+    "reportID": 21,
+    "ratingID": 21,
+    "rangerID": 21,
+    "name": "Halcyon smyrnesis",
+    "admin": false,
+    "phone": "White-throated kingfisher",
+    "email": "gshayk@plala.or.jp"
+  }, {
+    "userID": 22,
+    "reportID": 22,
+    "ratingID": 22,
+    "rangerID": 22,
+    "name": "Amblyrhynchus cristatus",
+    "admin": false,
+    "phone": "Marine iguana",
+    "email": "abussonsl@deliciousdays.com"
+  }, {
+    "userID": 23,
+    "reportID": 23,
+    "ratingID": 23,
+    "rangerID": 23,
+    "name": "Mirounga angustirostris",
+    "admin": false,
+    "phone": "Northern elephant seal",
+    "email": "gschruyerm@mozilla.com"
+  }, {
+    "userID": 24,
+    "reportID": 24,
+    "ratingID": 24,
+    "rangerID": 24,
+    "name": "Colaptes campestroides",
+    "admin": false,
+    "phone": "Campo flicker",
+    "email": "jcrossgroven@naver.com"
+  }, {
+    "userID": 25,
+    "reportID": 25,
+    "ratingID": 25,
+    "rangerID": 25,
+    "name": "Tachyglossus aculeatus",
+    "admin": false,
+    "phone": "Anteater, australian spiny",
+    "email": "ichesshireo@booking.com"
+  }, {
+    "userID": 26,
+    "reportID": 26,
+    "ratingID": 26,
+    "rangerID": 26,
+    "name": "Callipepla gambelii",
+    "admin": false,
+    "phone": "Gambel's quail",
+    "email": "npaolinop@goo.gl"
+  }, {
+    "userID": 27,
+    "reportID": 27,
+    "ratingID": 27,
+    "rangerID": 27,
+    "name": "Alopochen aegyptiacus",
+    "admin": false,
+    "phone": "Egyptian goose",
+    "email": "jduffinq@abc.net.au"
+  }, {
+    "userID": 28,
+    "reportID": 28,
+    "ratingID": 28,
+    "rangerID": 28,
+    "name": "Cordylus giganteus",
+    "admin": false,
+    "phone": "Giant girdled lizard",
+    "email": "dleishmanr@flavors.me"
+  }, {
+    "userID": 29,
+    "reportID": 29,
+    "ratingID": 29,
+    "rangerID": 29,
+    "name": "Pteronura brasiliensis",
+    "admin": false,
+    "phone": "Giant otter",
+    "email": "lsarneys@disqus.com"
+  }, {
+    "userID": 30,
+    "reportID": 30,
+    "ratingID": 30,
+    "rangerID": 30,
+    "name": "Acridotheres tristis",
+    "admin": true,
+    "phone": "Mynah, indian",
+    "email": "rbrendisht@theatlantic.com"
+  }, {
+    "userID": 31,
+    "reportID": 31,
+    "ratingID": 31,
+    "rangerID": 31,
+    "name": "Ursus americanus",
+    "admin": true,
+    "phone": "American black bear",
+    "email": "ghewellu@google.com.au"
+  }, {
+    "userID": 32,
+    "reportID": 32,
+    "ratingID": 32,
+    "rangerID": 32,
+    "name": "Phascogale tapoatafa",
+    "admin": false,
+    "phone": "Brush-tailed phascogale",
+    "email": "mtytv@sbwire.com"
+  }, {
+    "userID": 33,
+    "reportID": 33,
+    "ratingID": 33,
+    "rangerID": 33,
+    "name": "Psittacula krameri",
+    "admin": false,
+    "phone": "Parakeet, rose-ringed",
+    "email": "dwillsw@nationalgeographic.com"
+  }, {
+    "userID": 34,
+    "reportID": 34,
+    "ratingID": 34,
+    "rangerID": 34,
+    "name": "Actophilornis africanus",
+    "admin": true,
+    "phone": "African jacana",
+    "email": "nklugex@delicious.com"
+  }, {
+    "userID": 35,
+    "reportID": 35,
+    "ratingID": 35,
+    "rangerID": 35,
+    "name": "Felis silvestris lybica",
+    "admin": false,
+    "phone": "African wild cat",
+    "email": "mfewtrelly@posterous.com"
+  }, {
+    "userID": 36,
+    "reportID": 36,
+    "ratingID": 36,
+    "rangerID": 36,
+    "name": "Equus hemionus",
+    "admin": true,
+    "phone": "Onager",
+    "email": "jfynanz@tmall.com"
+  }, {
+    "userID": 37,
+    "reportID": 37,
+    "ratingID": 37,
+    "rangerID": 37,
+    "name": "Priodontes maximus",
+    "admin": false,
+    "phone": "Giant armadillo",
+    "email": "ntraylen10@earthlink.net"
+  }, {
+    "userID": 38,
+    "reportID": 38,
+    "ratingID": 38,
+    "rangerID": 38,
+    "name": "Carphophis sp.",
+    "admin": false,
+    "phone": "Worm snake (unidentified)",
+    "email": "gbaddoe11@indiegogo.com"
+  }, {
+    "userID": 39,
+    "reportID": 39,
+    "ratingID": 39,
+    "rangerID": 39,
+    "name": "Procyon cancrivorus",
+    "admin": false,
+    "phone": "Raccoon, crab-eating",
+    "email": "tfoden12@cnn.com"
+  }, {
+    "userID": 40,
+    "reportID": 40,
+    "ratingID": 40,
+    "rangerID": 40,
+    "name": "Pseudalopex gymnocercus",
+    "admin": false,
+    "phone": "Azara's zorro",
+    "email": "nokynsillaghe13@homestead.com"
+  }, {
+    "userID": 41,
+    "reportID": 41,
+    "ratingID": 41,
+    "rangerID": 41,
+    "name": "Drymarchon corias couperi",
+    "admin": false,
+    "phone": "Eastern indigo snake",
+    "email": "fchinery14@nationalgeographic.com"
+  }, {
+    "userID": 42,
+    "reportID": 42,
+    "ratingID": 42,
+    "rangerID": 42,
+    "name": "Cacatua tenuirostris",
+    "admin": false,
+    "phone": "Long-billed corella",
+    "email": "ddaughton15@dmoz.org"
+  }, {
+    "userID": 43,
+    "reportID": 43,
+    "ratingID": 43,
+    "rangerID": 43,
+    "name": "Trichosurus vulpecula",
+    "admin": true,
+    "phone": "Possum, golden brush-tailed",
+    "email": "pkesteven16@ted.com"
+  }, {
+    "userID": 44,
+    "reportID": 44,
+    "ratingID": 44,
+    "rangerID": 44,
+    "name": "Junonia genoveua",
+    "admin": true,
+    "phone": "Butterfly, tropical buckeye",
+    "email": "etointon17@nbcnews.com"
+  }, {
+    "userID": 45,
+    "reportID": 45,
+    "ratingID": 45,
+    "rangerID": 45,
+    "name": "Carduelis uropygialis",
+    "admin": false,
+    "phone": "Siskin, yellow-rumped",
+    "email": "causher18@mlb.com"
+  }, {
+    "userID": 46,
+    "reportID": 46,
+    "ratingID": 46,
+    "rangerID": 46,
+    "name": "Choloepus hoffmani",
+    "admin": true,
+    "phone": "Two-toed tree sloth",
+    "email": "csweatman19@rambler.ru"
+  }, {
+    "userID": 47,
+    "reportID": 47,
+    "ratingID": 47,
+    "rangerID": 47,
+    "name": "Psittacula krameri",
+    "admin": true,
+    "phone": "Rose-ringed parakeet",
+    "email": "balldread1a@gov.uk"
+  }, {
+    "userID": 48,
+    "reportID": 48,
+    "ratingID": 48,
+    "rangerID": 48,
+    "name": "Colobus guerza",
+    "admin": false,
+    "phone": "Magistrate black colobus",
+    "email": "pcraighill1b@alibaba.com"
+  }, {
+    "userID": 49,
+    "reportID": 49,
+    "ratingID": 49,
+    "rangerID": 49,
+    "name": "Graspus graspus",
+    "admin": true,
+    "phone": "Crab, red lava",
+    "email": "agarber1c@icio.us"
+  }, {
+    "userID": 50,
+    "reportID": 50,
+    "ratingID": 50,
+    "rangerID": 50,
+    "name": "Francolinus swainsonii",
+    "admin": true,
+    "phone": "Francolin, swainson's",
+    "email": "adumsday1d@moonfruit.com"
+  }, {
+    "userID": 51,
+    "reportID": 51,
+    "ratingID": 51,
+    "rangerID": 51,
+    "name": "Ovis ammon",
+    "admin": false,
+    "phone": "Red sheep",
+    "email": "whowsam1e@cnn.com"
+  }, {
+    "userID": 52,
+    "reportID": 52,
+    "ratingID": 52,
+    "rangerID": 52,
+    "name": "Genetta genetta",
+    "admin": true,
+    "phone": "Small-spotted genet",
+    "email": "jgoslin1f@cocolog-nifty.com"
+  }, {
+    "userID": 53,
+    "reportID": 53,
+    "ratingID": 53,
+    "rangerID": 53,
+    "name": "Agkistrodon piscivorus",
+    "admin": true,
+    "phone": "Moccasin, water",
+    "email": "ahingeley1g@nationalgeographic.com"
+  }, {
+    "userID": 54,
+    "reportID": 54,
+    "ratingID": 54,
+    "rangerID": 54,
+    "name": "Morelia spilotes variegata",
+    "admin": false,
+    "phone": "Carpet python",
+    "email": "mtroy1h@alexa.com"
+  }, {
+    "userID": 55,
+    "reportID": 55,
+    "ratingID": 55,
+    "rangerID": 55,
+    "name": "Felis serval",
+    "admin": false,
+    "phone": "Serval",
+    "email": "amagister1i@mediafire.com"
+  }, {
+    "userID": 56,
+    "reportID": 56,
+    "ratingID": 56,
+    "rangerID": 56,
+    "name": "Cervus duvauceli",
+    "admin": false,
+    "phone": "Deer, swamp",
+    "email": "jlappin1j@yale.edu"
+  }, {
+    "userID": 57,
+    "reportID": 57,
+    "ratingID": 57,
+    "rangerID": 57,
+    "name": "Libellula quadrimaculata",
+    "admin": true,
+    "phone": "Russian dragonfly",
+    "email": "frossbrook1k@va.gov"
+  }, {
+    "userID": 58,
+    "reportID": 58,
+    "ratingID": 58,
+    "rangerID": 58,
+    "name": "Camelus dromedarius",
+    "admin": false,
+    "phone": "Camel, dromedary",
+    "email": "smerkle1l@tamu.edu"
+  }, {
+    "userID": 59,
+    "reportID": 59,
+    "ratingID": 59,
+    "rangerID": 59,
+    "name": "Geochelone elegans",
+    "admin": true,
+    "phone": "Tortoise, indian star",
+    "email": "dmullard1m@bloomberg.com"
+  }, {
+    "userID": 60,
+    "reportID": 60,
+    "ratingID": 60,
+    "rangerID": 60,
+    "name": "Equus burchelli",
+    "admin": true,
+    "phone": "Zebra, plains",
+    "email": "klehrian1n@umn.edu"
+  }, {
+    "userID": 61,
+    "reportID": 61,
+    "ratingID": 61,
+    "rangerID": 61,
+    "name": "Buteo galapagoensis",
+    "admin": true,
+    "phone": "Galapagos hawk",
+    "email": "lmcdermot1o@smugmug.com"
+  }, {
+    "userID": 62,
+    "reportID": 62,
+    "ratingID": 62,
+    "rangerID": 62,
+    "name": "Francolinus coqui",
+    "admin": true,
+    "phone": "Francolin, coqui",
+    "email": "vaveray1p@virginia.edu"
+  }, {
+    "userID": 63,
+    "reportID": 63,
+    "ratingID": 63,
+    "rangerID": 63,
+    "name": "Rhea americana",
+    "admin": false,
+    "phone": "Rhea, gray",
+    "email": "mrosso1q@washingtonpost.com"
+  }, {
+    "userID": 64,
+    "reportID": 64,
+    "ratingID": 64,
+    "rangerID": 64,
+    "name": "Ursus americanus",
+    "admin": true,
+    "phone": "Bear, american black",
+    "email": "pburdass1r@cdbaby.com"
+  }, {
+    "userID": 65,
+    "reportID": 65,
+    "ratingID": 65,
+    "rangerID": 65,
+    "name": "Capra ibex",
+    "admin": true,
+    "phone": "Ibex",
+    "email": "anyland1s@tamu.edu"
+  }, {
+    "userID": 66,
+    "reportID": 66,
+    "ratingID": 66,
+    "rangerID": 66,
+    "name": "Eudyptula minor",
+    "admin": false,
+    "phone": "Penguin, little blue",
+    "email": "eshutt1t@netlog.com"
+  }, {
+    "userID": 67,
+    "reportID": 67,
+    "ratingID": 67,
+    "rangerID": 67,
+    "name": "Bubo sp.",
+    "admin": false,
+    "phone": "Eagle owl (unidentified)",
+    "email": "gpettingill1u@paypal.com"
+  }, {
+    "userID": 68,
+    "reportID": 68,
+    "ratingID": 68,
+    "rangerID": 68,
+    "name": "Recurvirostra avosetta",
+    "admin": false,
+    "phone": "Avocet, pied",
+    "email": "apetche1v@csmonitor.com"
+  }, {
+    "userID": 69,
+    "reportID": 69,
+    "ratingID": 69,
+    "rangerID": 69,
+    "name": "Otaria flavescens",
+    "admin": false,
+    "phone": "Southern sea lion",
+    "email": "lasker1w@slideshare.net"
+  }, {
+    "userID": 70,
+    "reportID": 70,
+    "ratingID": 70,
+    "rangerID": 70,
+    "name": "Lycosa godeffroyi",
+    "admin": false,
+    "phone": "Wolf spider",
+    "email": "rbrinklow1x@hatena.ne.jp"
+  }, {
+    "userID": 71,
+    "reportID": 71,
+    "ratingID": 71,
+    "rangerID": 71,
+    "name": "Phylurus milli",
+    "admin": true,
+    "phone": "Barking gecko",
+    "email": "icossey1y@people.com.cn"
+  }, {
+    "userID": 72,
+    "reportID": 72,
+    "ratingID": 72,
+    "rangerID": 72,
+    "name": "Globicephala melas",
+    "admin": false,
+    "phone": "Whale, long-finned pilot",
+    "email": "rvedyasov1z@mashable.com"
+  }, {
+    "userID": 73,
+    "reportID": 73,
+    "ratingID": 73,
+    "rangerID": 73,
+    "name": "Kobus leche robertsi",
+    "admin": true,
+    "phone": "Kafue flats lechwe",
+    "email": "lbalmforth20@feedburner.com"
+  }, {
+    "userID": 74,
+    "reportID": 74,
+    "ratingID": 74,
+    "rangerID": 74,
+    "name": "Loris tardigratus",
+    "admin": false,
+    "phone": "Slender loris",
+    "email": "tjoskowitz21@illinois.edu"
+  }, {
+    "userID": 75,
+    "reportID": 75,
+    "ratingID": 75,
+    "rangerID": 75,
+    "name": "Ara chloroptera",
+    "admin": false,
+    "phone": "Macaw, red and blue",
+    "email": "mbushell22@foxnews.com"
+  }, {
+    "userID": 76,
+    "reportID": 76,
+    "ratingID": 76,
+    "rangerID": 76,
+    "name": "Canis lupus lycaon",
+    "admin": false,
+    "phone": "Wolf, timber",
+    "email": "bdanielczyk23@bluehost.com"
+  }, {
+    "userID": 77,
+    "reportID": 77,
+    "ratingID": 77,
+    "rangerID": 77,
+    "name": "Felis wiedi or Leopardus weidi",
+    "admin": true,
+    "phone": "Margay",
+    "email": "adunne24@geocities.jp"
+  }, {
+    "userID": 78,
+    "reportID": 78,
+    "ratingID": 78,
+    "rangerID": 78,
+    "name": "Leptoptilus dubius",
+    "admin": false,
+    "phone": "Greater adjutant stork",
+    "email": "ccanadine25@princeton.edu"
+  }, {
+    "userID": 79,
+    "reportID": 79,
+    "ratingID": 79,
+    "rangerID": 79,
+    "name": "Ploceus rubiginosus",
+    "admin": true,
+    "phone": "Chestnut weaver",
+    "email": "ajoesbury26@washington.edu"
+  }, {
+    "userID": 80,
+    "reportID": 80,
+    "ratingID": 80,
+    "rangerID": 80,
+    "name": "Graspus graspus",
+    "admin": true,
+    "phone": "Sally lightfoot crab",
+    "email": "gluttgert27@nih.gov"
+  }, {
+    "userID": 81,
+    "reportID": 81,
+    "ratingID": 81,
+    "rangerID": 81,
+    "name": "Dasypus novemcinctus",
+    "admin": true,
+    "phone": "Nine-banded armadillo",
+    "email": "mantonazzi28@prnewswire.com"
+  }, {
+    "userID": 82,
+    "reportID": 82,
+    "ratingID": 82,
+    "rangerID": 82,
+    "name": "Ciconia episcopus",
+    "admin": false,
+    "phone": "White-necked stork",
+    "email": "fswait29@soup.io"
+  }, {
+    "userID": 83,
+    "reportID": 83,
+    "ratingID": 83,
+    "rangerID": 83,
+    "name": "Tamiasciurus hudsonicus",
+    "admin": true,
+    "phone": "Squirrel, pine",
+    "email": "sgrimsley2a@lulu.com"
+  }, {
+    "userID": 84,
+    "reportID": 84,
+    "ratingID": 84,
+    "rangerID": 84,
+    "name": "Haliaetus vocifer",
+    "admin": true,
+    "phone": "Eagle, african fish",
+    "email": "ephython2b@weibo.com"
+  }, {
+    "userID": 85,
+    "reportID": 85,
+    "ratingID": 85,
+    "rangerID": 85,
+    "name": "Streptopelia senegalensis",
+    "admin": false,
+    "phone": "Dove, little brown",
+    "email": "khesser2c@amazon.com"
+  }, {
+    "userID": 86,
+    "reportID": 86,
+    "ratingID": 86,
+    "rangerID": 86,
+    "name": "Lasiorhinus latifrons",
+    "admin": true,
+    "phone": "Wombat, southern hairy-nosed",
+    "email": "jbeckerleg2d@webmd.com"
+  }, {
+    "userID": 87,
+    "reportID": 87,
+    "ratingID": 87,
+    "rangerID": 87,
+    "name": "Tiliqua scincoides",
+    "admin": true,
+    "phone": "Blue-tongued skink",
+    "email": "ipigeram2e@boston.com"
+  }, {
+    "userID": 88,
+    "reportID": 88,
+    "ratingID": 88,
+    "rangerID": 88,
+    "name": "Hystrix indica",
+    "admin": true,
+    "phone": "Indian porcupine",
+    "email": "abanane2f@admin.ch"
+  }, {
+    "userID": 89,
+    "reportID": 89,
+    "ratingID": 89,
+    "rangerID": 89,
+    "name": "Manouria emys",
+    "admin": false,
+    "phone": "Burmese black mountain tortoise",
+    "email": "dbarnard2g@admin.ch"
+  }, {
+    "userID": 90,
+    "reportID": 90,
+    "ratingID": 90,
+    "rangerID": 90,
+    "name": "Phasianus colchicus",
+    "admin": true,
+    "phone": "Pheasant, ring-necked",
+    "email": "aschubuser2h@boston.com"
+  }, {
+    "userID": 91,
+    "reportID": 91,
+    "ratingID": 91,
+    "rangerID": 91,
+    "name": "Meleagris gallopavo",
+    "admin": true,
+    "phone": "Turkey, wild",
+    "email": "scordier2i@adobe.com"
+  }, {
+    "userID": 92,
+    "reportID": 92,
+    "ratingID": 92,
+    "rangerID": 92,
+    "name": "Bradypus tridactylus",
+    "admin": false,
+    "phone": "Sloth, pale-throated three-toed",
+    "email": "jsekulla2j@geocities.jp"
+  }, {
+    "userID": 93,
+    "reportID": 93,
+    "ratingID": 93,
+    "rangerID": 93,
+    "name": "Psittacula krameri",
+    "admin": true,
+    "phone": "Rose-ringed parakeet",
+    "email": "dred2k@t-online.de"
+  }, {
+    "userID": 94,
+    "reportID": 94,
+    "ratingID": 94,
+    "rangerID": 94,
+    "name": "Hymenolaimus malacorhynchus",
+    "admin": false,
+    "phone": "Blue duck",
+    "email": "vspoole2l@exblog.jp"
+  }, {
+    "userID": 95,
+    "reportID": 95,
+    "ratingID": 95,
+    "rangerID": 95,
+    "name": "Odocoilenaus virginianus",
+    "admin": true,
+    "phone": "Deer, white-tailed",
+    "email": "cgroome2m@cargocollective.com"
+  }, {
+    "userID": 96,
+    "reportID": 96,
+    "ratingID": 96,
+    "rangerID": 96,
+    "name": "unavailable",
+    "admin": true,
+    "phone": "Hummingbird (unidentified)",
+    "email": "mphilippe2n@unicef.org"
+  }, {
+    "userID": 97,
+    "reportID": 97,
+    "ratingID": 97,
+    "rangerID": 97,
+    "name": "Dasyurus viverrinus",
+    "admin": true,
+    "phone": "Quoll, eastern",
+    "email": "tsimcock2o@geocities.com"
+  }, {
+    "userID": 98,
+    "reportID": 98,
+    "ratingID": 98,
+    "rangerID": 98,
+    "name": "Taxidea taxus",
+    "admin": false,
+    "phone": "Badger, american",
+    "email": "rcape2p@nifty.com"
+  }, {
+    "userID": 99,
+    "reportID": 99,
+    "ratingID": 99,
+    "rangerID": 99,
+    "name": "Potorous tridactylus",
+    "admin": true,
+    "phone": "Potoroo",
+    "email": "aaimson2q@bbb.org"
+  }, {
+    "userID": 100,
+    "reportID": 100,
+    "ratingID": 100,
+    "rangerID": 100,
+    "name": "Genetta genetta",
+    "admin": false,
+    "phone": "Genet, small-spotted",
+    "email": "ebarrasse2r@zdnet.com"
+}]
+
